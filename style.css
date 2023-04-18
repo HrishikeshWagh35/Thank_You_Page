@@ -1,0 +1,15 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+  }
+  
+  /* Style the text */
+  h1 {
+    font-size: 5rem;
+    font-weight: bold;
+    text-align: center;
+    color: #333;
+  }
